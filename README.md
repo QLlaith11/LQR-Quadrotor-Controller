@@ -129,6 +129,7 @@ cd LQR-Quadrotor-Controller
 
 **Step 4: Run the simulation**
 - Click the ▶️ Play button
+- Move the target (the green sphere) using Object/item shift tool (you can find it in the toolbar above within Coppeliasim simulator)
 - The quadrotor will automatically stabilize and track the target
 
 ![Quadrotor Stabilization Demo](media/gifs/output.gif)
